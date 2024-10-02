@@ -1,0 +1,21 @@
+.about {
+  background-color: #1a1a1a; /* Dark background for a John Wick vibe */
+  padding: 20px;
+  border: 2px solid aquamarine; /* Aquamarine border for the retro look */
+  font-family: 'Press Start 2P', cursive; /* 8-bit retro font */
+}
+
+.about h2 {
+  color: aquamarine; /* Aquamarine color for text */
+  font-size: 24px;
+  text-align: center;
+  text-shadow: 2px 2px 5px #000;
+}
+
+.about p {
+  color: aquamarine; 
+  font-size: 16px;
+  line-height: 1.5;
+  text-shadow: 1px 1px 3px #000;
+  margin-top: 10px;
+}
